@@ -15,4 +15,4 @@ Small example app showing a minimal signup/signin flow using Express and MySQL.
   - `POST /signin` — login (accepts username or email).
 
 This repo is intentionally small for learning and testing authentication flows.
-# auth-jwt
+
